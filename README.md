@@ -33,12 +33,6 @@ Implement the prediction endpoint:
 - Uses your trained model to make predictions
 - Returns performance score
 
-## Files to Implement
-
-- `src/prediction.py` - Model loading and prediction logic
-- `src/db/queries.py` - Database queries
-- `src/main.py` - Complete the prediction endpoint
-
 ## Database
 
 SQLite database with normalized tables:
