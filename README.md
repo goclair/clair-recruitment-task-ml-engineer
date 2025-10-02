@@ -40,3 +40,5 @@ SQLite database with normalized tables:
 - `product_embeddings` - Product embeddings (JSON)
 - `product_features` - Product features (key-value pairs)
 - `variants` - Product variants
+
+The database has been seeded with a single product (ID 1) with five variants (IDs 1-5).
